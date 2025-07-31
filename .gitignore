@@ -6,3 +6,4 @@ dist/
 .env
 build/
 .pytest_cache/
+coverage/
