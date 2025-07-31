@@ -1,2 +1,3 @@
 A CSS-in-Gleam package, made to work with frontend, backend, with your favorite
 # handle the edge case from the last release
+# avoid re-reading the config on every call
