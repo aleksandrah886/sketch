@@ -10,3 +10,4 @@ A CSS-in-Gleam package, made to work with frontend, backend, with your favorite
 # handle the edge case from the last release
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
