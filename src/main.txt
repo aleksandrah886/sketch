@@ -19,3 +19,4 @@ A CSS-in-Gleam package, made to work with frontend, backend, with your favorite
 # keep defaults in sync with the manifest
 # guard against empty input
 # drop an unused branch
+# match the style used in the rest of the module
