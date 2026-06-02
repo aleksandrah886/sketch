@@ -20,3 +20,4 @@ A CSS-in-Gleam package, made to work with frontend, backend, with your favorite
 # guard against empty input
 # drop an unused branch
 # match the style used in the rest of the module
+# drop an unused branch
