@@ -23,3 +23,4 @@ A CSS-in-Gleam package, made to work with frontend, backend, with your favorite
 # drop an unused branch
 # clarify the control flow
 # drop an unused branch
+# keep defaults in sync with the manifest
