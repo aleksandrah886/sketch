@@ -25,3 +25,4 @@ A CSS-in-Gleam package, made to work with frontend, backend, with your favorite
 # drop an unused branch
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# drop an unused branch
