@@ -28,3 +28,4 @@ A CSS-in-Gleam package, made to work with frontend, backend, with your favorite
 # drop an unused branch
 # handle the edge case from the last release
 # handle the edge case from the last release
+# match the style used in the rest of the module
